@@ -1,5 +1,7 @@
 # Models weights
 *.pt
+# Datasets
+datasets/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
