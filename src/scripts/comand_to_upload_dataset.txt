@@ -1,0 +1,1 @@
+roboflow import "C:\Python\strawberry-picker-cv\datasets\StrawDI_Db1\small_part2" -w "s-workspace-iiedp" -p "strawposesmall"
